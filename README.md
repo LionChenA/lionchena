@@ -1,10 +1,14 @@
 # Hi there, I'm Lion Chen 👋
 
-Indie developer from China. Interested in modern frontend and AI coding.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=60A5FA&center=true&vCenter=true&width=400&lines=Indie+developer+from+China;Modern+frontend+and+AI+coding)](https://git.io/typing-svg)
 
 ## 📊 AI Usage
 
 ![Tokscale Stats](https://tokscale.ai/api/embed/LionChenA/svg?sort=cost&compact=1)
+
+## 📈 GitHub Stats
+
+![Lion Chen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LionChenA&theme=github_dark&hide_border=true)
 
 ## 🛠️ Tech Stack
 
@@ -27,3 +31,11 @@ Modular monolith architecture for modern Electron apps
 
 ### [bip](https://github.com/LionChenA/bip)
 Personal digital garden — humanistic thinking & knowledge cultivation
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LionChenA&theme=github_dark&hide_border=true&layout=compact)
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LionChenA&theme=github&hide_border=true&area=true)
