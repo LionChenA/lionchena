@@ -1,46 +1,25 @@
-# Astro Starter Kit: Basics
+# Hi there, I'm Lion Chen 👋
 
-```sh
-pnpm create astro@latest -- --template basics
-```
+Engineering constraints as anchors for AI coding
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 📊 AI Usage
 
-## 🚀 Project Structure
+![Tokscale Stats](https://tokscale.ai/api/embed/LionChenA/svg?sort=cost&compact=1)
 
-Inside of your Astro project, you'll see the following folders and files:
+## 🛠️ Tech Stack
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+Electron · React 19 · TypeScript · Tailwind CSS v4 · shadcn/ui · TanStack Router · ORPC · Vitest · Playwright · Biome · OpenSpec
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## 📦 Featured Projects
 
-## 🧞 Commands
+### [electron-modular-monolith](https://github.com/LionChenA/electron-modular-monolith-business-tests)
+Modular monolith architecture for modern Electron apps
 
-All commands are run from the root of the project, from a terminal:
+### [bip](https://github.com/LionChenA/bip)
+Personal digital garden — humanistic thinking & knowledge cultivation
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+---
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+🔭 Building        electron-modular-monolith · bip
+💬 Ask me about   AI coding · Engineering constraints · TDD
+⚡ AI Stack        Claude Code · OpenCode
